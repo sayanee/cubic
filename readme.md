@@ -2,7 +2,25 @@
 
 archive of an art project on symmetry.
 
-#symmetries
+##about
+
+A grain of fun!
+
+![](img/logo.png)
+
+Cubic by Chinnee is a little fun project by 2 friends.
+
+Can symmetry exist through space?
+Can a connection be made despite the distance?
+Can the same message be conveyed from 2 different places?
+Cubic will explore these questions.
+
+Each post will have 2 pictures from 2 corners of the world with a little Haiku. 
+But they will say the same message.
+
+Can you decipher it?
+
+##symmetries
 
 1. **Notebook** *4th October 2009 - 08:00PM*
 	
@@ -183,3 +201,7 @@ archive of an art project on symmetry.
 	> Memories lie within
 	
 	![](img/18-shoot.jpg)
+	
+##license
+
+All content on is licensed under [Creative Commons](http://creativecommons.org/licenses/by-nc-sa/3.0/sg/).
