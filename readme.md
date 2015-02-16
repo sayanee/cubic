@@ -31,7 +31,6 @@ Can you decipher it?
 	> A sweet grain of fun!
 	
 	![](img/1-notebook.jpg)
-	
 - **Waterfront** *14th October 2009 - 06:23AM*
 
 	> City by the river
@@ -41,7 +40,6 @@ Can you decipher it?
 	> Cool water and bright sky
 	
 	![](img/2-waterfront.jpg)
-	
 - **Campus** *18th October 2009 - 07:52PM*
 
 	> Walking through the school
@@ -51,7 +49,6 @@ Can you decipher it?
 	> Learning circles abound
 	
 	![](img/3-campus.jpg)
-	
 - **Charting** *1st November 2009 - 07:22PM*
 
 	> Bunch of graphs and tables
@@ -61,7 +58,6 @@ Can you decipher it?
 	> Learning's always fun
 	
 	![](img/4-charting.jpg)
-	
 - **Silver Balls** *26th December 2009 - 12:21AM*
 
 	> Trees, balls, wreaths and cakes
@@ -71,7 +67,6 @@ Can you decipher it?
 	> Merry Christmas day
 	
 	![](img/5-silver-balls.jpg)
-	
 - **Library** *3rd January 2010 - 09:00AM*
 
 	> Tomes of great knowledge
@@ -81,7 +76,6 @@ Can you decipher it?
 	> But will paper survive?
 	
 	![](img/6-books.jpg)
-	
 - **Manhole** *2th January 2010 - 10:00AM*
 
 	> When you look down
@@ -91,7 +85,6 @@ Can you decipher it?
 	> Leading us underground
 	
 	![](img/7-manhole.jpg)
-	
 - **Ceilings** *25th January 2010 - 10:00AM*
 
 	> Domes on the ceilings
@@ -101,7 +94,6 @@ Can you decipher it?
 	> A reason to look up
 	
 	![](img/8-ceiling.jpg)
-	
 - **Perspective** *14th February 2010 - 10:25PM*
 
 	> Buildings near or far
@@ -111,7 +103,6 @@ Can you decipher it?
 	> Like life's ups and downs
 	
 	![](img/9-perspective.jpg)
-	
 - **TedX** *21st February 2010 - 12:10AM*
 
 	> Ideas worth Spreading
@@ -121,7 +112,6 @@ Can you decipher it?
 	> Start you're own TEDx
 	
 	![](img/10-tedx.jpg)
-	
 - **Tower** *1st June 2010 - 11:57PM*
 
 	> Places of worship
@@ -131,7 +121,6 @@ Can you decipher it?
 	> Calm, Peace and Happiness
 	
 	![](img/11-tower.jpg)
-	
 - **Rice and Spice** *18th January 2011 - 11:30PM*
 
 	> Seafood, rice and spice,
@@ -141,7 +130,6 @@ Can you decipher it?
 	> Turkey or Japan	
 	
 	![](img/12-rice.jpg)
-	
 - **Frozen liquid** *25th January 2011 - 09:00AM*
 
 	> Cities on water,
@@ -151,7 +139,6 @@ Can you decipher it?
 	> Perfect for a stroll
 	
 	![](img/13-cityriver.jpg)
-	
 - **Southpark** *2nd February 2011 - 08:24PM*
 
 	> Southpark looks at life
@@ -161,7 +148,6 @@ Can you decipher it?
 	> Shall we do it too?
 	
 	![](img/14-southpark.jpg)
-	
 - **Sea and Snow** *22nd March 2011 - 11:19PM*
 
 	> Blue sea and white snow
@@ -171,7 +157,6 @@ Can you decipher it?
 	> Both made of water
 	
 	![](img/15-view.jpg)
-	
 - **Towers** *28th March 2011 - 11:22PM*
 
 	> Tower on churches
@@ -181,7 +166,6 @@ Can you decipher it?
 	> Rich, deep and intriguing
 	
 	![](img/16-church.jpg)
-	
 - **Books** *6th June 2011 - 09:27AM*
 
 	> Hearing and Seeing
@@ -191,7 +175,6 @@ Can you decipher it?
 	> Yet so much unknown
 	
 	![](img/17-books.jpg)
-	
 - **Lens & Pics** *7th July 2011 - 05:14PM*
 
 	> Photos- what's the point?
